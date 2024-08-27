@@ -8,7 +8,7 @@
     background-color: #252627;
     text-align: right;
     font-size: 18px;
-    padding-bottom: 03px;
+    padding-bottom: 02px;
 }
 #zapp
 {
@@ -45,6 +45,7 @@ article {
 h3, h2 {
     color: rgb(37, 211, 102
     );
+    margin: 20px;
 }
 
 
@@ -67,4 +68,8 @@ h3, h2 {
 footer {
     background-color: #252627;
     color: aliceblue;
+}
+
+p {
+    margin: 20px;
 }

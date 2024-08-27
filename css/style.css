@@ -8,9 +8,15 @@
     background-color: #252627;
     text-align: right;
     font-size: 18px;
-    padding-bottom: 10px;
+    padding-bottom: 03px;
 }
-
+#zapp
+{
+    border-radius: 30px;
+}
+.imagens {
+    border-radius: 5%;
+}
 article {
     padding-top: 30px;
     padding-bottom: 15px;
@@ -18,8 +24,8 @@ article {
     width: 24%;
     display: inline-block;
     text-align: center;
-    
 }
+
 
 .alinhar{
     padding: 25px 140px 10px 10px;
@@ -36,16 +42,27 @@ article {
 /* .dir {
     float:right;
 } */
-h3 {
+h3, h2 {
     color: rgb(37, 211, 102
     );
 }
+
 
 .alinharsec3{
     display: inline-block;
     margin: 20px;
     width: 28%;
-    
+}
+
+.alinharsec4{
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+}
+
+#depoimentos {
+    text-align: center;
+    margin-bottom: 15;
 }
 footer {
     background-color: #252627;
